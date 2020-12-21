@@ -31,3 +31,6 @@ Good Job! (Nuradil)
 8) As a child, I often played with my dad, for me it was the coolest game at that time. Even though the idea is really simple, it’s a really cool concept.This game is honestly the best battle royal 2D game  I have ever played. Thanks Libs and Sezim for their hard work (Sacral)
 9) I will criticize the work which was created by Elira and Sezim. Their game is awesome! I'm delighted that they can do this! Everything is in place! It is very easy and convenient to use! And very Interesting game . I like it! But, In my opinion you need to add some features like you can change the level and make the font bigger too! (Nuriza)
 10) Honestly, this game brought me back to my sweet childhood days, when me and my brother used to compete in Guessing to beat each other's score. And now I want to thank Sezim Ydyrysova and Elira Akimbaeva for getting a chance to experience that again! Tetris is simple, but makes me want to reach higher score over and over, that I can't get enough of it! (Aidina)
+
+# Youtube Video Tutorial
+https://youtu.be/Cu9XWpn13_w
