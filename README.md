@@ -6,3 +6,4 @@ Ydyrysova Sezim and Akimbaeva Elira
 The essence of the game is that the letters of the words are scattered, and the player must guess this word.
 
 This game greatly develops a person's thinking and attention, and also improves his vocabulary.
+
