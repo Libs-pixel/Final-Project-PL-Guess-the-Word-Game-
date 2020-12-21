@@ -7,3 +7,6 @@ The essence of the game is that the letters of the words are scattered, and the 
 
 This game greatly develops a person's thinking and attention, and also improves his vocabulary.
 
+# Game screenshots
+
+![IMG_20201221_230443_814](https://user-images.githubusercontent.com/75837324/102802506-f6f63d00-43e0-11eb-9697-bc5035d88e57.jpg)
