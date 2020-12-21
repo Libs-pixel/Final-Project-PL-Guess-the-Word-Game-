@@ -66,7 +66,7 @@ def checkans():
         res()
     else:
         messagebox.showerror("Error", "Try again :(")
-        e1.delete(0, END)
+        entr.delete(0, END)
 
 
 AddWindow = Frame(root, width=600, height=100, bd=1, relief=SOLID)
